@@ -27,9 +27,9 @@ This is a simple Bash script that automatically classifies FASTQ files in your c
 
 ## Output Example
 
-- Processing file: example.fastq
-- Min: 33
-- Max: 74
-- Phred+33 encoding detected for example.fastq
-- Moved example.fastq to phred33/
+Processing file: example.fastq.<br>
+Min: 33.<br>
+Max: 74.<br>
+Phred+33 encoding detected for example.fastq.<br>
+Moved example.fastq to phred33/
 
